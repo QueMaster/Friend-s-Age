@@ -1,0 +1,2 @@
+# Friend-s-Age
+The friend's Age application is has the main function with three modules that perform different functions:  the 1st module: It generates the random values in a range of 20 to 40                then returns. the 2nd module: It organizes the output, then returns. the 3rd module: compares randomly generated age numbers if it's above the average sum of the generated numbers.  the app outputs the generated age numbers, their average and the number of age numbers that are greater than the average.
